@@ -11,16 +11,16 @@ QuickLinks is a Chrome extension that lets you create shortcuts to your favorite
 ## Screenshots
 
 ### Main Interface
-![Main Interface](/image1.png)
+(/image1.png)
 
 ### Adding a Shortcut
-![Add Shortcut](/image2.png)
+(/image2.png)
 
 ## Video Demonstration
 
 Check out the video demonstration of the extension in action:
 
-[![QuickLinks Demo]](https://res.cloudinary.com/dpj8y0x4s/video/upload/v1730994176/Quicklinks_edhzua.mp4)
+(https://res.cloudinary.com/dpj8y0x4s/video/upload/v1730994176/Quicklinks_edhzua.mp4)
 
 ## Tech Stack
 
