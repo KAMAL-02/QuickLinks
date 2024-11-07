@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "QuickLinks",
+    "version": "1.0",
+    "description": "Navigate to URLs using custom keywords",
+    "permissions": ["storage", "tabs"],
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "16": "rsz_quicklinks.png",
+        "48": "rsz_quicklinks.png",
+        "128": "rsz_quicklinks.png"
+      }
+    },
+    "icons": {
+      "16": "rsz_quicklinks.png",
+      "48": "rsz_quicklinks.png",
+      "128": "rsz_quicklinks.png"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "omnibox": {
+      "keyword": "go"
+    }
+  }
